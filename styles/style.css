@@ -1,0 +1,62 @@
+body{
+    background-color: #4EA9A0;
+}
+.container{
+    background-color: white;
+    border-radius: 12px;
+    width:700px;
+    height: 360px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 130px;
+    margin-bottom: 25px;
+    padding:8px;
+    position: relative;
+}
+.next{
+    font-size: 1.4em;
+    font-style: italic;
+    background-color: #4EA9A0;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 5px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+.quote-container{
+    text-align: center;
+    font-size:2.8em;
+    font-style:italic;
+    color: #4EA9A0;
+    margin-top: 18px;
+    margin-bottom: 15px;
+}
+
+.quote-by{
+    text-align: right;
+    margin-right: 42px;
+    color: #4EA9A0;
+    font-size: 1.6em;
+    font-style: italic;
+}
+.maker{
+    text-align: center;
+    font-size: 1.5em;
+    font-style: italic;
+    color:white;
+}
+
+.tweet{
+    font-size: 1.4em;
+    font-style: italic;
+    background-color: #289E93;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
